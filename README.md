@@ -1,4 +1,4 @@
-# Intelligent Multilingual Speech-to-Action System
+# Intelligent Multilingual Speech-to-Action System by Baibhav Rajkumar
 
 An AI-powered system that listens to voice commands and performs actions on your computer, such as searching the web, opening applications, and telling the time.
 
